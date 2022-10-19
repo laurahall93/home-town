@@ -9,7 +9,7 @@ body {
     background: linear-gradient(#eddcd2, #1b9aaa);
     font-family: 'Cinzel', serif;
     font-size: 16px;
-    outline: 6px solid black;
+    border: 6px solid black;
     
    
 }
