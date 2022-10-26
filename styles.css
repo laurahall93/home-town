@@ -71,7 +71,7 @@ p {
 }
 
 .guide-info {
-     border: 2px solid white;
+     border: 2px solid #64a6bd;
      border-radius: 3%;
      padding: 20px;
      display: flex;
